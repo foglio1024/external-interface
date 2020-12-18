@@ -1,0 +1,13 @@
+{
+	"name": "external-interface",
+	"servers": [ "https://raw.githubusercontent.com/Foglio1024/external-interface/master/" ],
+	"supportUrl": "https://github.com/neowutran/external-interface/issues",
+	"author": "Foglio",
+	"description": "Generic interface to feed TERA packets to external applications via HTTP and TCP connections.",
+	"disableAutoUpdate": false,
+	"keywords": ["network"],
+	"options": {
+		"cliName": "external-interface",
+		"guiName": "External interface"
+	}
+}
