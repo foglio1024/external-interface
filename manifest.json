@@ -2,7 +2,7 @@
 	"files": {
 		"index.js": "37bcc2a37b040ab0abda175e2f21676ce8ec076e639859edc3d690c5096d90e7",
 		"lib/control-interface.js": "1cb04f49718f77383bf8c89f4a520e5fa3c451cd0614609e8e2a27af7a04f079",
-		"lib/data-interface.js": "886565b0d2cd16e1a5659378e6f415bd04d6067e63c8c18193a64ac80bfffaf1",
+		"lib/data-interface.js": "588285ee01dbb13cddc8a3f51b882061de115256db3bec734d3d05eab3ff595b",
 		"lib/external-interface.js": "15758219b1f1d97bda33e0d5516066dd0a583fc13f6e956ac443aa61d09cc16f",
 		"lib/helpers.js": "22b2b4bb9cd6134fcaa92b801324ee1aae36eae2409429074167aaf540cb8477",
 		"lib/rpc-handler.js": "8a0af5c618270dc83e6029437b5a946b21a4de940037a7f02452f03348dca69a",
