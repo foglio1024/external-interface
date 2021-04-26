@@ -1,3 +1,5 @@
-const { ExternalInterface } = require("./lib/external-interface");
+const { DataInterface } = require("./lib/data-interface")
+const { ControlInterface } = require("./lib/control-interface")
 
-exports.NetworkMod = ExternalInterface;
+exports.GlobalMod = ControlInterface;
+exports.NetworkMod = DataInterface;

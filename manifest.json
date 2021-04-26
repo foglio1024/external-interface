@@ -1,11 +1,11 @@
 {
 	"files": {
-		"index.js": "37bcc2a37b040ab0abda175e2f21676ce8ec076e639859edc3d690c5096d90e7",
+		"index.js": "b9e61a08f93e7ff4fc8bfcbd199154ecec74edf2a90baf05f9a5cee31847f2d8",
 		"lib/control-interface.js": "1cb04f49718f77383bf8c89f4a520e5fa3c451cd0614609e8e2a27af7a04f079",
-		"lib/data-interface.js": "c3420eb2f20362fc558cccf8c994fa5bfdc7f1fe9f430d2f6632e2400fedf121",
+		"lib/data-interface.js": "171a3f9eb13cfbaa4fbebd53093ccc9814aeb983d6e91e55b5ed7bb8df64e9b1",
 		"lib/external-interface.js": "15758219b1f1d97bda33e0d5516066dd0a583fc13f6e956ac443aa61d09cc16f",
 		"lib/helpers.js": "22b2b4bb9cd6134fcaa92b801324ee1aae36eae2409429074167aaf540cb8477",
-		"lib/rpc-handler.js": "60fd2138c19c5c3a51c07043b099bd8a388f54519e768b200383f8cfacc63708",
+		"lib/rpc-handler.js": "602bb34e1aaea8024fbec4d325c017506cd36fab9e42fc12b43d7b408708929e",
 		"lib/rpc-server.js": "003440bd3886c42be8494946b959bdd4f2b1a1f528c1cc635d76d8c5ee9c2a09",
 		"module.json": "24ca4960938b8df41777cfbedd5c6df31183e5eb4bf399d607bd8ba57004088f"
 	},
