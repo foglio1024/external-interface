@@ -5,7 +5,7 @@
 		"lib/data-interface.js": "6571a690305e0883e678737e793d7cdcd5f06c411df09e6ffd470d9c9797f33e",
 		"lib/external-interface.js": "15758219b1f1d97bda33e0d5516066dd0a583fc13f6e956ac443aa61d09cc16f",
 		"lib/helpers.js": "a5a1455e06a98078031c72f2e5e04718ae63df5c8f4cbde181c4f59525ed3250",
-		"lib/rpc-handler.js": "fdd41e54f800671e056e2bfdb12e796036ded85b24ecb9ee8144ea000b21a6e4",
+		"lib/rpc-handler.js": "de770045af9c13cfae122d8a79f9325a784f121777effba4c9a5dfe8fd4bea78",
 		"lib/rpc-server.js": "003440bd3886c42be8494946b959bdd4f2b1a1f528c1cc635d76d8c5ee9c2a09",
 		"module.json": "24ca4960938b8df41777cfbedd5c6df31183e5eb4bf399d607bd8ba57004088f"
 	},
